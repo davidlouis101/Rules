@@ -2,10 +2,10 @@
 name: Rules
 version: 1.0.0
 author: SuperBaronDEV
-api: 3.11.1
+api: 1.11.4
 main: Rules\Rules\Main
   commands:
     rules:
     description: watch the rules!
-    usage: /rules
+    usage: "/rules"
 ...
