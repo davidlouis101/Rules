@@ -5,6 +5,6 @@ api: 1.11.4
 main: Rules\Rules\Main
   commands:
     Regeln:
-    description: Die Regeln!
+    description: §4Die Regeln
     usage: "/Regeln"
 
